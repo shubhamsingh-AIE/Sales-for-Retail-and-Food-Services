@@ -1,7 +1,4 @@
-/* 
-
-*/
-
+--------------------------------------------Start-----------------------------------------------------------------
 --Business Question:
 
 --1)Top-performing industries in terms of sales for a year 2021, and how do their sales compare month-over-month?
